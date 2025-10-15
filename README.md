@@ -1,6 +1,6 @@
 # 🛍 Ecommerce Website 
 
-This is the *fullstack E-commerce Website* , combining both *frontend* and *backend* modules.  
+This is a *fullstack Ecommerce Website* , combining both *frontend* and *backend* modules.  
 The frontend provides a seamless user interface built with React.js, while the backend handles REST APIs, product management, and database integration using Java Spring Boot.
 
 ---
